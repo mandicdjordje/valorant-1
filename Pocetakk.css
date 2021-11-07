@@ -183,3 +183,22 @@ input[type=submit] {
 input[type=submit]:hover {
   opacity: 0.8;
 }
+
+/* footer */
+.footer {
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  border-top: 1px solid #fff;
+}
+
+.footer p {
+  font-size: 20px;
+  font-weight: bold;
+}
