@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /heroji.html
+Disallow: /kontakt.html
+Disallow: /Gameplay.html
